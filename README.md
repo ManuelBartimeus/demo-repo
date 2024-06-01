@@ -1,3 +1,3 @@
 # Demo
 
-Description of GitHub Tutorials. 
+Description of GitHub Tutorials!
